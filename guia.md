@@ -1,6 +1,9 @@
 # Guía PFO 02 DevOps
 
+
 ## Parte 1: Aplicación Web con Docker
+
+https://hub.docker.com/repository/docker/martinsciotti/mi_app_web/general
 
 ### Instalación y Configuración Inicial
 
@@ -72,6 +75,8 @@ docker exec -it mi-mysql mysql -u root -p
 docker tag mi-aplicacion-web user/mi-aplicacion-web:v1
 
 ## Parte 2: Dockerización de Proyecto Existente
+
+https://hub.docker.com/repository/docker/martinsciotti/mi-app-web-devops/general
 
 ### Preparación del Proyecto
 ### Creación del Dockerfile
